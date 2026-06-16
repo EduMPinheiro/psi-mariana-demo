@@ -11,5 +11,5 @@ export default defineConfig({
       crawlLinks: true,
       failOnError: false,
     },
-  },
+  } as any,
 });
