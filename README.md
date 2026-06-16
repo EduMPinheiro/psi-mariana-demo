@@ -59,7 +59,7 @@ A proposta foi construir uma experiência acolhedora e profissional, alinhada à
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto:**  
-https://SEU-PROJETO.vercel.app
+(https://psic-mariana-demo.vercel.app)
 
 ---
 
@@ -67,15 +67,15 @@ https://SEU-PROJETO.vercel.app
 
 ### Página Inicial
 
-![Página Inicial](./assets/screenshots/home.png)
+![Página Inicial](./assets/screenshots/site1.png)
 
 ### Sobre a profissional
 
-![Seção Sobre](./assets/screenshots/sobre.png)
+![Seção Sobre](./assets/screenshots/site2.png)
 
 ### Versão Mobile
 
-![Versão Mobile](./assets/screenshots/mobile.png)
+![Versão Mobile](./assets/screenshots/sitemobile.png)
 
 > Adicione imagens do projeto na pasta `assets/screenshots` para exibi-las aqui.
 
