@@ -64,45 +64,6 @@ A proposta foi construir uma experiência acolhedora e profissional, alinhada à
 
 ---
 
-## ⚙️ Executando o projeto localmente
-
-### Pré-requisitos
-
-- Bun instalado
-
-### Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/EduMPinheiro/psi-mariana-demo.git
-```
-
-Entre na pasta do projeto:
-
-```bash
-cd psi-mariana-demo
-```
-
-Instale as dependências:
-
-```bash
-bun install
-```
-
-Execute o ambiente de desenvolvimento:
-
-```bash
-bun dev
-```
-
-A aplicação estará disponível em:
-
-```text
-
-```
-
----
 
 ## 🎯 Objetivos deste projeto
 
