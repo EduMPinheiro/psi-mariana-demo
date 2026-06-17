@@ -61,23 +61,6 @@ A proposta foi construir uma experiência acolhedora e profissional, alinhada à
 🔗 **Acesse o projeto:**  
 (https://psic-mariana-demo.vercel.app)
 
----
-
-## 📸 Capturas de tela
-
-### Página Inicial
-
-![Página Inicial](./assets/screenshots/site1.png)
-
-### Sobre a profissional
-
-![Seção Sobre](./assets/screenshots/site2.png)
-
-### Versão Mobile
-
-![Versão Mobile](./assets/screenshots/sitemobile.png)
-
-> Adicione imagens do projeto na pasta `assets/screenshots` para exibi-las aqui.
 
 ---
 
